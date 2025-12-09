@@ -1,0 +1,4 @@
+$b06b311e-3be4-4c7e-b084-fbbf58cf3c3e²²+highlight_id ÿÿÿÿÿÿÿÿÿ*int648Zdefault&text ÿÿÿÿÿÿÿÿÿ*string8Zdefault(book_id ÿÿÿÿÿÿÿÿÿ*int648Zdefault,
+book_title ÿÿÿÿÿÿÿÿÿ*string8Zdefault(author ÿÿÿÿÿÿÿÿÿ*string8Zdefault'genre ÿÿÿÿÿÿÿÿÿ*string8Zdefault%page ÿÿÿÿÿÿÿÿÿ*int648Zdefault=vector ÿÿÿÿÿÿÿÿÿ*fixed_size_list:float:76808Zdefault"!
+lance.auto_cleanup.interval20"'
+lance.auto_cleanup.older_than14days
