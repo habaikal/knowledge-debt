@@ -2,6 +2,7 @@
   "name": "knowledge-debt",
   "private": true,
   "version": "0.1.0",
+  "homepage": "https://habaikal.github.io/knowledge-debt/",
   "type": "module",
   "scripts": {
     "dev": "vite",
